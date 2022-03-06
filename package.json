@@ -1,0 +1,24 @@
+{
+  "name": "socketio-beginner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dania-c/socket-io-primitive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dania-c/socket-io-primitive/issues"
+  },
+  "homepage": "https://github.com/Dania-c/socket-io-primitive#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  }
+}
